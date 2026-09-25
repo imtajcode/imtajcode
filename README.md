@@ -1,4 +1,4 @@
-## Hi 👋 I'm Imtaj
+## Hi 👋 I'm Imtaj Hussain Anasary
 
 💻 Aspiring Full Stack Developer
 🌱 Currently learning Machine Learning
