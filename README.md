@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi 👋 I'm Imtaj
+
+💻 Aspiring Full Stack Developer
+🌱 Currently learning Machine Learning
+⚛️ Interested in React & Node.js
+🐍 Learning Python
+🚀 Building projects
 
 <!--
 **imtajcode/imtajcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
