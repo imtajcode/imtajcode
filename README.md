@@ -1,10 +1,13 @@
 ## Hi 👋 I'm Imtaj Hussain Anasary
 
 💻 Aspiring Full Stack Developer
-🌱 Currently learning Machine Learning
+🌱 Currently learning JavaScript
 ⚛️ Interested in React & Node.js
-🐍 Learning Python
+🐍 Exploring Python
 🚀 Building projects
+## 🛠️ Skills
+
+HTML • CSS • JavaScript • Git • GitHub
 
 <!--
 **imtajcode/imtajcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
